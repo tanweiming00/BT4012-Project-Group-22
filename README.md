@@ -36,12 +36,16 @@ sklearn.ensemble
 
 xgboost 
 
-Torch
+torch
 
-Torch.nn
+torch.nn
 
 torch.optim 
-Torch.utils.data
-Optima 
-Lime 
-Lime.lime_tabular 
+
+torch.utils.data
+
+optima 
+
+lime 
+
+lime.lime_tabular 
