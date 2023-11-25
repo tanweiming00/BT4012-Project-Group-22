@@ -16,7 +16,7 @@ Prepared by: Project Group 22
 | Zen Bin Xing Yiang | A0234171N |
 
 
-Please ensure that "Base.csv" is in the same directory as "EDA + Preprocessing.ipynb" for notebook to run properly.
+Please ensure that "Base.csv" is in the same directory as "EDA + Preprocessing.ipynb" for notebook to run properly. It can be downloaded at https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022 or you may use the source code files that we uploaded. 
 
 Also, please ensure that the following libraries are installed: 
 pandas 
