@@ -49,3 +49,6 @@ optima
 lime 
 
 lime.lime_tabular 
+
+
+Also, ensure that "Base.csv" is in the same directory as "EDA + Preprocessing.ipynb" for notebook to run properly.
