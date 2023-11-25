@@ -15,7 +15,10 @@ Prepared by: Project Group 22
 | Tan Wei Ming | A0234971Y |
 | Zen Bin Xing Yiang | A0234171N |
 
-Please ensure that the following libraries are installed: 
+
+Please ensure that "Base.csv" is in the same directory as "EDA + Preprocessing.ipynb" for notebook to run properly.
+
+Also, please ensure that the following libraries are installed: 
 pandas 
 
 numpy 
@@ -51,4 +54,3 @@ lime
 lime.lime_tabular 
 
 
-Also, ensure that "Base.csv" is in the same directory as "EDA + Preprocessing.ipynb" for notebook to run properly.
